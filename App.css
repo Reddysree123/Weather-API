@@ -1,0 +1,23 @@
+.main{
+  background-color:#dde;
+  margin-right: 500px;
+  margin-left: 500px;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  font-style: italic;
+  border-radius: 15px;
+  
+
+
+}
+.aa{
+  height: 1000px;
+  width: 100%;
+  background: url('https://media.istockphoto.com/photos/clouds-isolated-picture-id1331958717?k=20&m=1331958717&s=612x612&w=0&h=ILIvFm3meZJwhQLVQ8rXJ7YLU2QNrmvlHmoZLHwoJsY=');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 10px;
+  padding: 50px;
+}
